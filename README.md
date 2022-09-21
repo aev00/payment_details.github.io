@@ -1,1 +1,3 @@
-# payment_details.github.io
+### Payment details
+
+Your payment will be determined as follows:...
