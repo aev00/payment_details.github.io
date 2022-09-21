@@ -1,3 +1,0 @@
-### Payment details
-
-Your payment will be determined as follows:...
