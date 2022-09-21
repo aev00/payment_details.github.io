@@ -8,8 +8,9 @@ The computer will draw a random number (_p_) from the interval between _D_ and _
 
 To illustrate, consider the lottery from the example: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With probability **25%: Get $ 10**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With probability **75%: Get $  1**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With probability 25%: Get $ 10
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With probability 75%: Get $  1
 
 Suppose that you indicated this lottery is worth to you as much as getting $ 3 for sure.
 
