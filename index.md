@@ -16,4 +16,4 @@ Suppose that you indicated this lottery is worth to you as much as getting $ 3 f
 
 Now, as described above the computer draws a random number (_P ~ U(1, 10)_). Imagine this is 6.5, larger than your valuation. Therefore, your additional bonus payment is $6.50.
 
-Though this might seem complicated, all it means is that it’s in your best interest to tell us how much the lottery is actually worth to you.
+Though this might seem complicated, all it means is that it is in your best interest to tell us how much the lottery is actually worth to you.
